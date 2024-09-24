@@ -1,0 +1,22 @@
+﻿@model List<ResultQuestDto>
+@{
+    int accordionIndex = 0;
+}
+<div class="accordion" id="accordionExample">
+    @foreach (var item in Model)
+    {
+        accordionIndex++;
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="heading_@accordionIndex">
+                <button class="accordion-button @(accordionIndex == 1 ? "" : "collapsed")" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_@accordionIndex" aria-expanded="@(accordionIndex == 1 ? "true" : "false")" aria-controls="collapse_@accordionIndex">
+                    @item.Question
+                </button>
+            </h2>
+            <div id="collapse_@accordionIndex" class="accordion-collapse collapse @(accordionIndex == 1 ? "show" : "")" aria-labelledby="heading_@accordionIndex" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    @item.Answer
+                </div>
+            </div>
+        </div>
+    }
+</div>
