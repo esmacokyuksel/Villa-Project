@@ -1,0 +1,12 @@
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\bin\Debug\net7.0\Villa.Dto.deps.json
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\bin\Debug\net7.0\Villa.Dto.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\bin\Debug\net7.0\Villa.Dto.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\obj\Debug\net7.0\Villa.Dto.csproj.AssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\obj\Debug\net7.0\Villa.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\obj\Debug\net7.0\Villa.Dto.AssemblyInfoInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\obj\Debug\net7.0\Villa.Dto.AssemblyInfo.cs
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\obj\Debug\net7.0\Villa.Dto.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\obj\Debug\net7.0\Villa.Dto.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\obj\Debug\net7.0\refint\Villa.Dto.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\obj\Debug\net7.0\Villa.Dto.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Dto\obj\Debug\net7.0\ref\Villa.Dto.dll

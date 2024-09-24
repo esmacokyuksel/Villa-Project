@@ -1,0 +1,12 @@
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\bin\Debug\net7.0\Villa.Entity.deps.json
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\bin\Debug\net7.0\Villa.Entity.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\bin\Debug\net7.0\Villa.Entity.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\obj\Debug\net7.0\Villa.Entity.csproj.AssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\obj\Debug\net7.0\Villa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\obj\Debug\net7.0\Villa.Entity.AssemblyInfoInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\obj\Debug\net7.0\Villa.Entity.AssemblyInfo.cs
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\obj\Debug\net7.0\Villa.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\obj\Debug\net7.0\Villa.Entity.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\obj\Debug\net7.0\refint\Villa.Entity.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\obj\Debug\net7.0\Villa.Entity.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Entity\obj\Debug\net7.0\ref\Villa.Entity.dll
