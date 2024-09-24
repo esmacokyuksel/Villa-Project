@@ -1,0 +1,17 @@
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\bin\Debug\net7.0\Villa.Business.deps.json
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\bin\Debug\net7.0\Villa.Business.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\bin\Debug\net7.0\Villa.Business.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\bin\Debug\net7.0\Villa.DataAccess.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\bin\Debug\net7.0\Villa.Entity.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\bin\Debug\net7.0\Villa.DataAccess.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\bin\Debug\net7.0\Villa.Entity.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\Villa.Business.csproj.AssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\Villa.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\Villa.Business.AssemblyInfoInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\Villa.Business.AssemblyInfo.cs
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\Villa.Business.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\Villa.Bu.65869923.Up2Date
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\Villa.Business.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\refint\Villa.Business.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\Villa.Business.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Villa.Business\obj\Debug\net7.0\ref\Villa.Business.dll
